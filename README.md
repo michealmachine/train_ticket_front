@@ -1,3 +1,10 @@
+**前端开发**:
+
+- 使用Vue 3框架和JavaScript构建用户界面，采用组合式API和单文件组件(SFC)。
+- 使用Axios与后端API通信，确保数据同步。
+- 采用Element Plus提供丰富的UI组件，增强用户体验。
+- 使用ECharts进行数据可视化，展示如热门路线等统计信息。
+**后端链接https://github.com/michealmachine/train_ticket**
 # fronts
 
 This template should help get you started developing with Vue 3 in Vite.
